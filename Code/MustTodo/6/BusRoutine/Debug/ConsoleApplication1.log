@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+E:\DataStructure\CourseDesign\CouseDesign\Summary\MustTodo\6\BusRoutine\ConsoleApplication1.cpp(134,22): warning C4018: “<”: 有符号/无符号不匹配
+E:\DataStructure\CourseDesign\CouseDesign\Summary\MustTodo\6\BusRoutine\ConsoleApplication1.cpp(280,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\DataStructure\CourseDesign\CouseDesign\Summary\MustTodo\6\BusRoutine\ConsoleApplication1.cpp(327,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\DataStructure\CourseDesign\CouseDesign\Summary\MustTodo\6\BusRoutine\ConsoleApplication1.cpp(339,25): warning C4018: “<=”: 有符号/无符号不匹配
+  ConsoleApplication1.vcxproj -> E:\DataStructure\CourseDesign\CouseDesign\Summary\MustTodo\6\BusRoutine\Debug\ConsoleApplication1.exe

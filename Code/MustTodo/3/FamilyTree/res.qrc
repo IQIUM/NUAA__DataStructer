@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>familytree.txt</file>
+    </qresource>
+</RCC>

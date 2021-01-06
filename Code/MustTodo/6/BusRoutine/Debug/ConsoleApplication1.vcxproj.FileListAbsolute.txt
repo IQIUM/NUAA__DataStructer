@@ -1,0 +1,10 @@
+C:\Users\IQIUM\Desktop\tt\ConsoleApplication1\Debug\ConsoleApplication1.exe
+C:\Users\IQIUM\Desktop\tt\ConsoleApplication1\Debug\ConsoleApplication1.pdb
+E:\Data structure course design\CouseDesign\MustTodo\6\BusRoutine\Debug\ConsoleApplication1.exe
+E:\Data structure course design\CouseDesign\MustTodo\6\BusRoutine\Debug\ConsoleApplication1.pdb
+E:\Data structure course design\CouseDesign\Summary\MustTodo\6\BusRoutine\Debug\ConsoleApplication1.exe
+E:\Data structure course design\CouseDesign\Summary\MustTodo\6\BusRoutine\Debug\ConsoleApplication1.pdb
+E:\DataStructor\CourseDesign\CouseDesign\Summary\MustTodo\6\BusRoutine\Debug\ConsoleApplication1.exe
+E:\DataStructor\CourseDesign\CouseDesign\Summary\MustTodo\6\BusRoutine\Debug\ConsoleApplication1.pdb
+E:\DataStructure\CourseDesign\CouseDesign\Summary\MustTodo\6\BusRoutine\Debug\ConsoleApplication1.exe
+E:\DataStructure\CourseDesign\CouseDesign\Summary\MustTodo\6\BusRoutine\Debug\ConsoleApplication1.pdb
